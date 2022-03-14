@@ -1,32 +1,23 @@
-<!--
-If this is not ready to be reviewed create a draft
--->
+<!-- If this is not ready to be reviewed create a draft pull request -->
 
-# Description
+## Description
 
 Fixes BNCGA-xxxxx
 
-<!--
-Include a summary of the change and which issue is fixed
--->
+<!-- Include a summary of the change and which issue is fixed -->
 
 ## Type of change
 
-<!--
-Delete options that are not relevant
--->
+<!-- Delete options that are not relevant -->
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update - Created follow up on BNCGA-xxxxx
+- [ ] This change requires a documentation update (Follow up on BNCGA-xxxxx)
 
 ## How Has This Been Tested?
 
-<!--
-Describe the tests that you ran to verify your changes
-Provide instructions to reproduce
--->
+<!-- Describe the tests that you ran to verify your changes. Provide instructions to reproduce -->
 
 - [ ] Test A
 - [ ] Test B
