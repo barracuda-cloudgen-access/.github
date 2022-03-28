@@ -29,5 +29,5 @@ Theses changes have been tested in:
 - [ ] Fill the description
 - [ ] Declare the type of changes included in the pull request
 - [ ] Describe how has this been tested
-- [ ] Add categorical labels (feature/fix/chore/docs)
-- [ ] Add semver labels (patch/minor/major)
+- [ ] Add categorical labels (feature/fix/chore/docs/skip-changelog)
+- [ ] Add semver labels (patch/minor/major/skip-semver)
