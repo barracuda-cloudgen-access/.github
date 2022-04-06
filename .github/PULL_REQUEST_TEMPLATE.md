@@ -21,8 +21,11 @@ Fixes BNCGA-xxxxx
 
 Theses changes have been tested in:
 
-- A
-- B
+- Local environment
+- Development environment
+- Staging environment
+- Productiomn environment
+- No testing required
 
 # Checklist
 <!-- Fill the checklist before opening the pull request -->
