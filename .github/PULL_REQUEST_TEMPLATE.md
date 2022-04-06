@@ -24,7 +24,7 @@ Theses changes have been tested in:
 - Local environment
 - Development environment
 - Staging environment
-- Productiomn environment
+- Production environment
 - No testing required
 
 # Checklist
