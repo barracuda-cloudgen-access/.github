@@ -21,10 +21,10 @@ Fixes BNCGA-xxxxx
 
 Theses changes have been tested in:
 
-- Local environment
-- Development environment
-- Staging environment
-- Production environment
+- [x] Local environment
+- [ ] Development environment
+- [ ] Staging environment
+- [ ] Production environment
 - No testing required
 
 # Checklist
